@@ -1,0 +1,19 @@
+{
+  "name": "cityweather",
+  "version": "1.0.0",
+  "description": "City Weather App",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philmui/cityweather.git"
+  },
+  "author": "Phil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philmui/cityweather/issues"
+  },
+  "homepage": "https://github.com/philmui/cityweather#readme"
+}
